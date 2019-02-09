@@ -5,3 +5,10 @@ G:\c#\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
 G:\c#\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
 G:\c#\lab1\lab1\obj\Debug\lab1.exe
 G:\c#\lab1\lab1\obj\Debug\lab1.pdb
+G:\PP2\week1\Task1\lab1\bin\Debug\lab1.exe.config
+G:\PP2\week1\Task1\lab1\bin\Debug\lab1.exe
+G:\PP2\week1\Task1\lab1\bin\Debug\lab1.pdb
+G:\PP2\week1\Task1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+G:\PP2\week1\Task1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+G:\PP2\week1\Task1\lab1\obj\Debug\lab1.exe
+G:\PP2\week1\Task1\lab1\obj\Debug\lab1.pdb
